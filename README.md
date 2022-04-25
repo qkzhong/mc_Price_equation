@@ -1,3 +1,3 @@
 # mc_Price_equation
-Price Equation paper dataset
-mc_dataset.csv contains summarized data for replication analysis on manscript "Is Institutional Evolution in Online Communities Driven by Selection or Stochasticity?"
+This repository contains the following:
+**mc_dataset.csv**: Summarized data for replication analysis on *Is Institutional Evolution in Online Communities Driven by Selection or Stochasticity?*
